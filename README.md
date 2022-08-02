@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndemarch
-- 👀 I’m interested in astrophysics, machine learning, data science and more...
+- 👀 I’m interested in astrophysics, machine learning and data science
 - 📫 How to reach me: ndemarch1991@gmail.com
 
 <!---
