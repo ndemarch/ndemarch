@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndemarch
-- 👀 I’m interested in all things astrophysics
-- 📫 How to reach me: ndemarch1991@gmail.com
+- 👀 I’m interested in all things astrophysics and machine learning
+- 📫 How to reach me: ndemarch@icloud.com
 
 <!---
 ndemarch/ndemarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
