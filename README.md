@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndemarch
-- 👀 I’m interested in all things physics and machine learning
+- 👀 I’m interested in all things related to physics and machine learning
 - 📫 How to reach me: ndemo1220@gmail.com
 
 <!---
